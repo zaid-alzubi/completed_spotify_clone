@@ -1,0 +1,73 @@
+"use strict";
+const songs = [
+  {
+    id: 1,
+    title: "Peaceful Piano",
+    artist: "Focus Collection",
+    cover: "images/Peaceful Piano.png",
+    src: "audio/peaceful-piano.mp3",
+  },
+  {
+    id: 2,
+    title: "Deep Focus",
+    artist: "Ambient Sessions",
+    cover: "images/Deep Focus.png",
+    src: "audio/Deep Focus.mp3",
+  },
+  {
+    id: 3,
+    title: "Instrumental Study",
+    artist: "Study Beats",
+    cover: "images/Instrumental Study.png",
+    src: "audio/Instrumental Study.mp3",
+  },
+  {
+    id: 4,
+    title: "Focus Flow",
+    artist: "Instrumental Mix",
+    cover: "images/Focus Flow.png",
+    src: "audio/Focus Flow.mp3",
+  },
+  {
+    id: 5,
+    title: "Beats to think to",
+    artist: "Electronic Sessions",
+    cover: "images/Beats to think to.png",
+    src: "audio/Beats to think to.mp3",
+  },
+  {
+    id: 6,
+    title: "Today's Top Hits",
+    artist: "Demo Playlist",
+    cover: "images/Today’s Top Hits.png",
+    src: "audio/Today's Top Hits.mp3",
+  },
+  {
+    id: 7,
+    title: "RapCaviar",
+    artist: "Demo Playlist",
+    cover: "images/RapCaviar.png",
+    src: "audio/RapCaviar.mp3",
+  },
+  {
+    id: 8,
+    title: "All Out 2010s",
+    artist: "Demo Playlist",
+    cover: "images/All Out 2010s.png",
+    src: "audio/All Out 2010s.mp3",
+  },
+  {
+    id: 9,
+    title: "Rock Classics",
+    artist: "Demo Playlist",
+    cover: "images/Rock Classics.png",
+    src: "audio/Rock Classics.mp3",
+  },
+  {
+    id: 10,
+    title: "Chill Hits",
+    artist: "Demo Playlist",
+    cover: "images/cover-10.svg",
+    src: "audio/Chill Hits.mp3",
+  },
+];
